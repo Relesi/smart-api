@@ -1,0 +1,1 @@
+package com.relesi.smart.api.controller;public class LancamentoControllerTest {}
